@@ -5,6 +5,7 @@ Blinkit: India's Last Minute App - Power BI Dashboard
 This Power BI dashboard provides a comprehensive overview of sales and performance metrics for Blinkit, India's last-minute app. The dashboard is divided into several sections, each highlighting different aspects of the business:
 
 Top Metrics
+
 ![image](https://github.com/user-attachments/assets/efc1f851-1f42-490c-a7cd-25313b742228)
 
   - Total Sales: $1.20M
