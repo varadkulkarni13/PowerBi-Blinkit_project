@@ -1,12 +1,19 @@
 Blinkit: India's Last Minute App - Power BI Dashboard
 
+![image](https://github.com/user-attachments/assets/e2dfd174-b295-457b-b016-03240cbf2af9)
+
 This Power BI dashboard provides a comprehensive overview of sales and performance metrics for Blinkit, India's last-minute app. The dashboard is divided into several sections, each highlighting different aspects of the business:
 
 Top Metrics
+![image](https://github.com/user-attachments/assets/efc1f851-1f42-490c-a7cd-25313b742228)
+
   - Total Sales: $1.20M
   - Average Sales: $141
   - Number of Items: 8523
   - Average Rating: 3.9
+    
+![image](https://github.com/user-attachments/assets/2992d987-864b-43f6-aad5-c04cf187749c)
+
 
 Fat Content
   - A donut chart showing total sales divided into Low Fat ($425.36K) and Regular ($776.32K).
@@ -19,6 +26,8 @@ Fat by Outlet
   - Tier 3: Low Fat ($0.31M), Regular ($0.17M)
   - Tier 2: Low Fat ($0.25M), Regular ($0.14M)
   - Tier 1: Low Fat ($0.22M), Regular ($0.12M)
+
+![image](https://github.com/user-attachments/assets/06122d88-ea2b-405a-86e0-fa11e03e5367)
 
 Outlet Establishment
   - A line chart showing sales trends from 2012 to 2022, peaking at $205K in 2018.
@@ -34,6 +43,8 @@ Outlet Location
   - Tier 3: $472.13K
   - Tier 2: $393.15K
   - Tier 1: $336.40K
+
+![image](https://github.com/user-attachments/assets/6a164f25-10e0-4ec8-973e-70e7fe609f0c)
 
 Outlet Type
   - A table listing different outlet types with their respective metrics:
